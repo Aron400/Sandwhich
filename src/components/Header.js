@@ -4,7 +4,7 @@ import '../App.css';
 function Header() {
     return (
         <div className="Header">
-            <h1>Sandwhich</h1>
+            <h1>🥪Sandwhich🥪</h1>
         </div>
     )
   }
